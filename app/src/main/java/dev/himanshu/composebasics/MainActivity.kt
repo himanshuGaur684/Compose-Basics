@@ -28,6 +28,15 @@ class MainActivity : ComponentActivity() {
 }
 
 
+
+
+
+
+
+
+
+
+
 @Composable
 fun ExampleBox(modifier: Modifier = Modifier) {
     Box(modifier=modifier.fillMaxSize(), contentAlignment = Alignment.Center){
